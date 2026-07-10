@@ -1,0 +1,21 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+
+# Obsidian local state and downloaded plugins
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/.trash/
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
+*.tmp
